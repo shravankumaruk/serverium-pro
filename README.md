@@ -42,7 +42,13 @@ You should see output like `java version "17"` or higher (If its 24 then great).
 ## 🛠️ Installation
 
 ### Windows 11
-🖥️ Update:you can download the latest Windows ZIP (with ServeriumPro.exe ready-to-run) from the [Releases](https://github.com/shravankumaruk/serverium-pro/releases) section and simply unzip & launch.
+
+
+
+**🖥️ *Update*:you can download the latest Windows ZIP (with ServeriumPro.exe ready-to-run) from the [Releases](https://github.com/shravankumaruk/serverium-pro/releases) section and simply unzip & launch.**
+
+
+
 
 
 1. **Install JDK**
@@ -60,13 +66,13 @@ You should see output like `java version "17"` or higher (If its 24 then great).
 3. **Build the project**
 
    ```powershell
-   javac -d out src\SimpleServerApp.java
+   javac SimpleServerApp.java
    ```
 
 4. **Run the application**
 
    ```powershell
-   java -cp out SimpleServerApp
+   java SimpleServerApp
    ```
 
 ---
@@ -77,7 +83,7 @@ You should see output like `java version "17"` or higher (If its 24 then great).
 
    ```bash
    sudo apt update
-   sudo apt install openjdk-17-jdk git -y
+   sudo apt install -y default-jdk
    ```
 
 2. **Clone the repository**
@@ -90,13 +96,13 @@ You should see output like `java version "17"` or higher (If its 24 then great).
 3. **Build the project**
 
    ```bash
-   javac -d out src/SimpleServerApp.java
+   javac SimpleServerApp.java
    ```
 
 4. **Run the application**
 
    ```bash
-   java -cp out SimpleServerApp
+   java SimpleServerApp
    ```
 
 ---

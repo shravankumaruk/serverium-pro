@@ -1,5 +1,5 @@
 [![Release](https://img.shields.io/github/v/release/shravankumaruk/serverium-pro)](https://github.com/shravankumaruk/serverium-pro/releases)
-[![License](https://img.shields.io/github/license/shravankumaruk/serverium-pro)](https://github.com/shravankumaruk/serverium-pro/blob/main/LICENSE.md)
+[![License](https://img.shields.io/github/license/shravankumaruk/serverium-pro)](https://github.com/shravankumaruk/serverium-pro/blob/main/LICENSE)
 [![Stars](https://img.shields.io/github/stars/shravankumaruk/serverium-pro?style=social)](https://github.com/shravankumaruk/serverium-pro/stargazers)
 [![Forks](https://img.shields.io/github/forks/shravankumaruk/serverium-pro?style=social)](https://github.com/shravankumaruk/serverium-pro/network/members)
 [![Issues](https://img.shields.io/github/issues/shravankumaruk/serverium-pro)](https://github.com/shravankumaruk/serverium-pro/issues)
@@ -177,4 +177,4 @@ If you find this tool useful, please ⭐ **star** the repo:
 
 ## 📝 License
 
-This project is licensed under the [GNU GPL v3.0](LICENSE.md). Feel free to use and modify, provided you retain the **original credit** and license notice.
+This project is licensed under the [GNU GPL v3.0](LICENSE). Feel free to use and modify, provided you retain the **original credit** and license notice.

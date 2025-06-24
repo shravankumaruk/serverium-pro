@@ -1,9 +1,29 @@
+[![Release](https://img.shields.io/github/v/release/shravankumaruk/serverium-pro)](https://github.com/shravankumaruk/serverium-pro/releases)
+[![License](https://img.shields.io/github/license/shravankumaruk/serverium-pro)](https://github.com/shravankumaruk/serverium-pro/blob/main/LICENSE.md)
+[![Stars](https://img.shields.io/github/stars/shravankumaruk/serverium-pro?style=social)](https://github.com/shravankumaruk/serverium-pro/stargazers)
+[![Forks](https://img.shields.io/github/forks/shravankumaruk/serverium-pro?style=social)](https://github.com/shravankumaruk/serverium-pro/network/members)
+[![Issues](https://img.shields.io/github/issues/shravankumaruk/serverium-pro)](https://github.com/shravankumaruk/serverium-pro/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/shravankumaruk/serverium-pro)](https://github.com/shravankumaruk/serverium-pro/commits/main)
+[![Repo Size](https://img.shields.io/github/repo-size/shravankumaruk/serverium-pro)](https://github.com/shravankumaruk/serverium-pro)
+[![Downloads](https://img.shields.io/github/downloads/shravankumaruk/serverium-pro/total)](https://github.com/shravankumaruk/serverium-pro/releases)
+[![Java](https://img.shields.io/badge/java-17%2B-blue)](https://www.oracle.com/java/)
+[![Tested on JDK](https://img.shields.io/badge/tested_on-Oracle_JDK_24-green)]()
+[![Platform](https://img.shields.io/badge/platform-Windows%20|%20Linux-lightgrey)]()
+<p align="center">
+  <img src="logo.png" alt="Serverium Pro Logo" width="200" />
+</p>
+
 # Serverium Pro (SimpleServerApp)
 
 A lightweight Java Swing application that serves static files over HTTP, logs requests, and provides an intuitive GUI for managing your local server.Can be used for testing your web applications easily and manage all requests save and view them for debugging too!
 
 ---
-
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shravankumaruk)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://#) 
+[![forthebadge](https://forthebadge.com/images/badges/code-it-test-it-break-it.svg)](https://#)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+[![tested](https://raw.githubusercontent.com/shravanprojects/shravanprojects.github.io/refs/heads/main/serverium-pro/tested-on-oracle-jdk-24.svg)](https://#)
 
 
 
